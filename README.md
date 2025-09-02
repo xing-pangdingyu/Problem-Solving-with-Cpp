@@ -13,20 +13,32 @@ This project is designed to demonstrate proficiency in **C++ programming fundame
 
 ```
 Problem-Solving-with-Cpp/
+│
+├── README.md
 ├── Chapter_1/
 │   ├── C1_Solutions.pdf
 │   ├── Section_1.tex
-│   └── Section_2.tex
+│   ├── Section_2.tex
+│   └── README.md
 ├── Chapter_2/
 │   ├── C2_Solutions.pdf
 │   ├── Section_1.tex
-│   └── Section_2.tex
-└── README.md
+│   ├── Section_2.tex
+│   └── README.md
+│
 ```
 
-* Each chapter has its own directory.
+## Shortcut Link
+
+- [Chapter 1: Introduction](chapter01_intro/README.md)
+- [Chapter 3: Control Structures](chapter03_control/README.md)
+- [Chapter 7: Functions](chapter07_functions/README.md)
+- [Chapter 10: Classes and OOP](chapter10_classes/README.md)
+
+
+* Each chapter has its own directory and README file.
 * Each exercise solution is stored in a separate file within the corresponding chapter folder.
-* Unless otherwise specified, each LaTex file can be compiled individually on your device without extra files.
+* Unless otherwise specified, each C++ file can be compiled individually on your device without extra files.
 
 ## How to Use
 
