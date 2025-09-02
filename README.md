@@ -30,7 +30,7 @@ Problem-Solving-with-Cpp/
 
 ## Shortcut Link
 
-- [Chapter 1: Introduction](chapter01_intro/README.md)
+- [Chapter 1: Introduction](chapter01/README.md)
 - [Chapter 3: Control Structures](chapter03_control/README.md)
 - [Chapter 7: Functions](chapter07_functions/README.md)
 - [Chapter 10: Classes and OOP](chapter10_classes/README.md)
