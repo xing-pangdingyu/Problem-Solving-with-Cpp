@@ -1,7 +1,11 @@
 # Chapter 1: Introduction to Computers and C++ Programming
 
-### Exercises
-- **3.1** If/Else statements → [ex01_ifelse.cpp](ex01_ifelse.cpp)  
-- **3.2** Loops → [ex02_loops.cpp](ex02_loops.cpp)  
-- **3.5** Explanation only → see [../solutions_pdf/ch03_ex5.pdf](../solutions_pdf/ch03_ex5.pdf)  
+### Self-Test Exercises
 
+### Practice Programs
+- **Practice 5** Area of Circle → [Practice_5.cpp](Practice_5.cpp)
+
+### Programming Projects
+- **Project 3** Coin Counting → [Project_3.cpp](Project_3.cpp)
+- **Project 4** Pressure Calculator → [Project_4.cpp](Project_4.cpp)
+- **Project 5** Large C Generator → [Project_5.cpp](Project_5.cpp)
