@@ -8,4 +8,4 @@
 - **Practice 2** Newton's Method on Sqrt → [Practice_02.cpp](Practice_02.cpp)
 
 ### Programming Projects
-- 
+- **Project 4** Loan Calculator → [Project_04.cpp](Project_04.cpp)
