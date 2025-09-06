@@ -1,7 +1,7 @@
 # Chapter 2: C++ Basics
 
 ### Self-Test Exercises
-- **Exercise 8** The Answer to Everything → [Exercise_08.cpp](Exercise_08.cpp)
+- **Exercise 8** The Answer to Universe → [Exercise_08.cpp](Exercise_08.cpp)
 - **Exercise 14** Square Root Table → [Exercise_14.cpp](Exercise_14.cpp)
 
 ### Practice Programs
