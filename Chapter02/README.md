@@ -9,3 +9,5 @@
 
 ### Programming Projects
 - **Project 4** Loan Calculator → [Project_04.cpp](Project_04.cpp)
+- **Project 5** Exam Result Determination → [Project_05.cpp](Project_05.cpp)
+- **Project 7** Budget Calculator → [Project_07.cpp](Project_07.cpp)
