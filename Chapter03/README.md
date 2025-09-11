@@ -4,7 +4,8 @@
 - **Exercise 37** Sentinel-Controlled Loop → [Exercise_37.cpp](Exercise_37.cpp)
 
 ### Practice Programs
-- **Practice 2** Newton's Method on Sqrt → [Practice_02.cpp](Practice_02.cpp)
+- **Practice 1** Paper-Rock-Scissors → [Practice_01.cpp](Practice_01.cpp)
+- **Practice 5** Prime Numbers Generator → [Practice_05.cpp](Practice_05.cpp)
 
 ### Programming Projects
 - **Project 4** Loan Calculator → [Project_04.cpp](Project_04.cpp)
