@@ -6,6 +6,7 @@
 ### Practice Programs
 - **Practice 1** Paper-Rock-Scissors → [Practice_01.cpp](Practice_01.cpp)
 - **Practice 5** Prime Numbers Generator → [Practice_05.cpp](Practice_05.cpp)
+- **Practice 7** Find Maximum Age → [Practice_07.cpp](Practice_07.cpp)
 
 ### Programming Projects
 - **Project 4** Loan Calculator → [Project_04.cpp](Project_04.cpp)
