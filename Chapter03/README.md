@@ -10,4 +10,4 @@
 
 ### Programming Projects
 - **Project 1** Call Cost Calculator → [Project_01.cpp](Project_01.cpp)
-- 
+- **Project 2** Triangle Type Determination → [Project_02.cpp](Project_02.cpp)
