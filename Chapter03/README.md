@@ -9,7 +9,5 @@
 - **Practice 7** Find Maximum Age → [Practice_07.cpp](Practice_07.cpp)
 
 ### Programming Projects
-- **Project 4** Loan Calculator → [Project_04.cpp](Project_04.cpp)
-- **Project 5** Exam Result Determination → [Project_05.cpp](Project_05.cpp)
-- **Project 7** Budget Calculator → [Project_07.cpp](Project_07.cpp)
-- **Project 8** Loan Repayment → [Project_08.cpp](Project_08.cpp)
+- **Project 1** Call Cost Calculator → [Project_01.cpp](Project_01.cpp)
+- 
