@@ -2,6 +2,7 @@
 #include <string>
 #include <limits>
 #include <array>
+#include <cctype>
 
 int read_int_between_0_and_9999(const std::string& name) {
     int value = 0;
@@ -32,16 +33,32 @@ std::array<int, 4> last_four_digits(int n) {
     return digits;
 }
 
+bool read_yes_no() {
+    std::string s;
+    while (true) {
+        std::cout << "Play again? (y/n): ";
+        if (!(std::cin >> s)) return false;
+        char c = 0;
+        for (char ch : s) if (!std::isspace(static_cast<unsigned char>(ch))) { c = ch; break; }
+        c = static_cast<char>(std::tolower(static_cast<unsigned char>(c)));
+        if (c == 'y') return true;
+        if (c == 'n') return false;
+        std::cerr << "Please enter 'y' or 'n'.\n";
+    }
+}
+
 int main() {
-	int num = read_int_between_0_and_9999("a positive integer up to 4 digits");
+    do {
+        int num = read_int_between_0_and_9999("a positive integer up to 4 digits");
 
-	std::array<int, 4> four_digits = last_four_digits(num);
+        std::array<int, 4> four_digits = last_four_digits(num);
 
-	std::cout << "The number: " << num << '\n'
-		      << "Digit at ones: " << four_digits[3] << '\n'
-              << "Digit at tens: " << four_digits[2] << '\n'
-              << "Digit at hundreds: " << four_digits[1] << '\n'
-              << "Digit at thousands: " << four_digits[0] << '\n';
-
+        std::cout << "The number: " << num << '\n'
+                << "Digit at ones: " << four_digits[3] << '\n'
+                << "Digit at tens: " << four_digits[2] << '\n'
+                << "Digit at hundreds: " << four_digits[1] << '\n'
+                << "Digit at thousands: " << four_digits[0] << '\n';
+    } while (read_yes_no());
+    
 	return 0;
 }
