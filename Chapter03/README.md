@@ -13,3 +13,4 @@
 - **Project 2** Triangle Type Determination → [Project_02.cpp](Project_02.cpp)
 - **Project 3** Find Digits in Integer → [Project_03.cpp](Project_03.cpp)
 - **Project 4** Blackjack Scoring → [Project_04.cpp](Project_04.cpp)
+- **Project 6** Fibonacci Numbers Calculator → [Project_06.cpp](Project_06.cpp)
