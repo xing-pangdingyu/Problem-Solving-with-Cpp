@@ -21,7 +21,7 @@ int read_int_between_0_and_9999(const std::string& name) {
 }
 
 std::array<int, 4> last_four_digits(int n) {
-    std::array<int, 4> digits{};
+    std::array<int, 4> digits{}; // Empty array with size 4
 
     n %= 10000;
 
