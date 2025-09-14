@@ -17,3 +17,4 @@
 - **Project 7** Taylor Series of Exponential Function → [Project_07.cpp](Project_07.cpp)
 - **Project 9** Monty Hall Problem → [Project_09.cpp](Project_09.cpp)
 - **Project 11** Broken Keypad Number Selector → [Project_11.cpp](Project_11.cpp)
+- **Project 12** Game of 23 Toothpicks → [Project_12.cpp](Project_12.cpp)
