@@ -16,3 +16,4 @@
 - **Project 6** Fibonacci Sequence → [Project_06.cpp](Project_06.cpp)
 - **Project 7** Taylor Series of Exponential Function → [Project_07.cpp](Project_07.cpp)
 - **Project 9** Monty Hall Problem → [Project_09.cpp](Project_09.cpp)
+- **Project 11** Broken Keypad Number Selector → [Project_11.cpp](Project_11.cpp)
