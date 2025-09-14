@@ -18,3 +18,4 @@
 - **Project 9** Monty Hall Problem → [Project_09.cpp](Project_09.cpp)
 - **Project 11** Broken Keypad Number Selector → [Project_11.cpp](Project_11.cpp)
 - **Project 12** Game of 23 Toothpicks → [Project_12.cpp](Project_12.cpp)
+- **Project 13** PIN Validation → [Project_13.cpp](Project_13.cpp)
