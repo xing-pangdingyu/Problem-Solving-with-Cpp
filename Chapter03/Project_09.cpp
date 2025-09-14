@@ -3,7 +3,7 @@
 #include <iomanip>
 
 bool win_monty_hall(int original, int prize, bool change_door) {
-    return change_door ? (original != prize) : (original == prize);
+    return change_door ? (original != prize) : (original == prize); // condition ? value_if_true : value_if_false
 }
 
 int main() {
