@@ -4,9 +4,7 @@
 - **Exercise 11** Incremental Discriminator → [Exercise_11.cpp](Exercise_11.cpp)
 
 ### Practice Programs
-- **Practice 1** Paper-Rock-Scissors → [Practice_01.cpp](Practice_01.cpp)
-- **Practice 5** Prime Numbers Generator → [Practice_05.cpp](Practice_05.cpp)
-- **Practice 7** Find Maximum Age → [Practice_07.cpp](Practice_07.cpp)
+- **Practice 1** Miles-per-Gallon Calculator → [Practice_01.cpp](Practice_01.cpp)
 
 ### Programming Projects
 - **Project 1** Call Cost Calculator → [Project_01.cpp](Project_01.cpp)
