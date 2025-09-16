@@ -8,3 +8,4 @@
 
 ### Programming Projects
 - **Project 4** Staged Sums of Digits → [Project_04.cpp](Project_04.cpp)
+- **Project 7** Difference Between 12-Hour Times → [Project_07.cpp](Project_07.cpp)
