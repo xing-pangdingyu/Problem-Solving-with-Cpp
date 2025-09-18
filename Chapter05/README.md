@@ -4,7 +4,7 @@
 - **Exercise 11** Tax Calculator → [Exercise_11.cpp](Exercise_11.cpp)
 
 ### Practice Programs
-- **Practice 1** Miles-per-Gallon Calculator → [Practice_01.cpp](Practice_01.cpp)
+- **Practice 1** Minimum Maximum Finder → [Practice_01.cpp](Practice_01.cpp)
 
 ### Programming Projects
 - **Project 4** Staged Sums of Digits → [Project_04.cpp](Project_04.cpp)
