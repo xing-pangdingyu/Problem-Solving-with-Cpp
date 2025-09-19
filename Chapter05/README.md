@@ -5,6 +5,7 @@
 
 ### Practice Programs
 - **Practice 1** Minimum Maximum Finder → [Practice_01.cpp](Practice_01.cpp)
+- **Practice 2** Height Converter (Feet/Inches -> M/CM) → [Practice_02.cpp](Practice_02.cpp)
 
 ### Programming Projects
 - **Project 4** Staged Sums of Digits → [Project_04.cpp](Project_04.cpp)
