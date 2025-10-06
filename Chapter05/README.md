@@ -12,3 +12,4 @@
 - **Project 2** Time Addition Algorithm Under 24H → [Project_02.cpp](Project_02.cpp)
 - **Project 4** Convert Cents to Quarters/Dimes/Pennies → [Project_04.cpp](Project_04.cpp)
 - **Project 6** Comparison of Strategies in Shooting Game → [Project_06.cpp](Project_06.cpp)
+- **Project 7** Zeller's Algorithm of Computing Day of Week → [Project_07.cpp](Project_07.cpp)
