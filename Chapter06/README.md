@@ -4,6 +4,7 @@
 
 ### Practice Programs
 - **Practice 1** Sum Up Data in .dat File → [Practice_01.cpp](Practice_01.cpp)
+- **Practice 3** Statistical Quartiles Algorithm → [Practice_03.cpp](Practice_03.cpp)
 
 ### Programming Projects
-- **Project 1** Fahrenheit-Celsius Converter → [Project_01.cpp](Project_01.cpp)
+- **Project 1** Name → [Project_01.cpp](Project_01.cpp)
